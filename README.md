@@ -46,7 +46,7 @@ Additional topics for interview prep:
 ## Anki flashcards
 
 <p align="center">
-  <img src="images/zdCAkB3.png">
+  <img src="images/zdCAkB3.png" style="background-color:white;">
   <br/>
 </p>
 
